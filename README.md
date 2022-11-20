@@ -5,7 +5,7 @@ The app should has 1 single page that does the following:
 1. Shows a list of avaialbe contacts fecthed from the following public API: [https://randomuser.me/api/?results=10](https://randomuser.me/api/?results=10) Check the Image below
 2. Filter based on contact gender
 
-[WireFrame](wireframe.png)
+![WireFrame](wireframe.png)
 
 
 ### Assesment:
