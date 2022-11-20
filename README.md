@@ -10,8 +10,10 @@ The app should has 1 single page that does the following:
 ### Assesment:
 Primarily, we will be assessing good code design decisions.
 
+
 ### Submittion:
 You should upload your code to a Github repository (private or public) and share it with us. Your repository should have a README.md that explains how to run the code and if you’ve done anything extra.
 
 Best of luck!
+
 ⭐️ Faheem Team ⭐️
