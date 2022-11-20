@@ -4,7 +4,8 @@ For this assignment you have to implement a simple address book application usin
 The app should has 1 single page that does the following:
 1. Shows a list of avaialbe contacts fecthed from the following public API: [https://randomuser.me/api/?results=10](https://randomuser.me/api/?results=10) Check the Image below
 2. Filter based on contact gender
-![ِAddress Book](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7908c41d-a747-42c9-842e-c0ff1ce7ba08/Untitled.png)
+
+[WireFrame](wireframe.png)
 
 
 ### Assesment:
